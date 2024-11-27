@@ -1,5 +1,3 @@
-import './style.css'
-
 const equalOperator = document.getElementById('equalOperator');
 const clearOperandEl = document.getElementById('clearOperands');
 const operand = document.querySelector('#operands');
